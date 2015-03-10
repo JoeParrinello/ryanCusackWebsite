@@ -1,0 +1,12 @@
+{
+  "name": "JoeParrinello/ryanCusackWebsite",
+  "description": "Personal Website for Ryan Cusack",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Joe Parrinello",
+      "email": "joe.parrinello@gmail.com"
+    }
+  ]
+}
