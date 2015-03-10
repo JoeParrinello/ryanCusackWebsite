@@ -12,7 +12,9 @@
         <link href='/css/main.css' rel="stylesheet" type="text/css">
     </head>
     <body>
-        <h1>Ryan Cusack Personal Website</h1>
-        <h2>In Progress</h2>
+        <header>
+            <h1>Ryan Cusack</h1>
+            <h3>Architect Extraordinaire</h3>
+        </header>
     </body>
 </html>
