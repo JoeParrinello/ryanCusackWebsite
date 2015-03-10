@@ -10,3 +10,8 @@ header {
     width:50%;
     margin: 0 auto;
 }
+
+header > h1,
+header > h3 {
+    text-align: center;
+}
